@@ -13,5 +13,3 @@ And the account balance is 100.00 dollars
 When the User withdraws 10.00 dollars
 
 Then the account balance should be 90.00 dollars
-
-#comment
